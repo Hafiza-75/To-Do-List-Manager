@@ -19,7 +19,7 @@ A simple and interactive **To-Do List Manager** built in C#. This beginner-frien
 - C# (.NET Console Application)
 - Visual Studio / Visual Studio Code
 
----## Output Preview
+## Output Preview
 
 <img width="352" height="194" alt="tasktodo" src="https://github.com/user-attachments/assets/e250a65c-022e-4a9d-b87b-279beb856d2d" />
 
